@@ -7,4 +7,4 @@ The assignment involves two questions.
 
 2. Implement the DBSCAN algorithm to cluster the given 2000 data points. Report the right parameters to get four clusters and plot the clusters.
 
-The final assignment report (uploaded) contains explanations of all network parameters, results and implications. 
+The final assignment report (uploaded) contains explanations for all network parameters, results and inferences. 
